@@ -1,0 +1,5 @@
+{
+  "name": "VinStock Pro",
+  "description": "Application professionnelle de gestion de stock de vin avec suivi des ventes, tableaux de bord analytiques et système d'alertes de stock.",
+  "requestFramePermissions": []
+}
